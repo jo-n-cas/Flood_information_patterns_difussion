@@ -22,7 +22,7 @@ target_countries = [
 'Viet Nam','Philippines','United Republic of Tanzania','Somalia',
 'Brazil','Croatia','Bosnia and Herzegovina','Italy','Argentina',
 'Peru','Namibia','Botswana','Madagascar','Libya','Kenya','Malawi',
-'Gabon','Spain','Dominican Republic','France','Yemen','Cameroon','Chad'
+'Gabon','Spain','Dominican Republic','France','Yemen','Cameroon','Chad', 'Guinea'
 ]
 
 # -----------------------------
