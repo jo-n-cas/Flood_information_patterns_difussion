@@ -140,12 +140,12 @@ Flood_ID,ISO,Country,Subregion,Region,Location,River Basin,Start Date,End Date,D
 139,YEM,Yemen,Western Asia,Asia,Al-Mahwit governorate,,2024-08-27,2024-08-29,2,arb,Arabic
 140,IND,India,Southern Asia,Asia,"Gujarat, Maharashtra, Tripura States",,2024-08-26,2024-08-27,1,"hin, eng","Hindi, English"
 141,IDN,Indonesia,South-eastern Asia,Asia,Ternate regency (North Maluku province),,2024-08-25,2024-08-26,1,ind,Indonesian
-142,NGA,Nigeria,Sub-Saharan Africa,Africa,"Adamawa, Borno, Bauchi, Sokoto, Zamfara and Jigawa states",,2024-08-20,,,"eng, hau, ibo, yor","English, Hausa, Igbo, Yoruba"
-143,BGD,Bangladesh,Southern Asia,Asia,"Lakshmipur, Cumilla, Feni, and Noakhali districts",,2024-08-19,2024-09-03,15,ben,Bengali
-144,IND,India,Southern Asia,Asia,Tripura state,,2024-08-19,2024-08-23,4,"hin, eng","Hindi, English"
-145,CAF,Central African Republic,Sub-Saharan Africa,Africa,"Mbomou, Moyenne-Sido prefectures",,2024-08-18,,,"fra, sag","French, Sango"
-146,THA,Thailand,South-eastern Asia,Asia,"Phetchabun, Chiang Rai, Chiang Mai, Nan, Phayao, Lampang, Phrae, Udon Thani, Rayong, Phuket, Sukhothai and Prae provinces",,2024-08-16,2024-08-26,10,tha,Thai
-147,CHN,China,Eastern Asia,Asia,"Ridi Village (Kangding county, Garzê Tibetan Autonomous Prefecture, Sichuan province)",,2024-08-03,2024-08-04,1,cmn,Mandarin Chinese
-148,CMR,Cameroon,Sub-Saharan Africa,Africa,Logone et Chari and the Mayo-Danay Divisions (Far North Region ),,2024-08-01,2024-09-30,60,"fra, eng","French, English"
-149,TCD,Chad,Sub-Saharan Africa,Africa,"Batha, Chari-Baguirmi, Logone Oriental, Mayo-Kebbi Ouest, Sila, Logone Occidental, N'Djamena city, Lake, Kanem; Tibesti, Lac, Mayo-Kebbi Est, Mandoul, Tandjilé, Batah, Guera, Salamat, Ennedi West, Borkou, Ennedi East",,2024-08-01,2024-09-30,60,"fra, arb","French, Arabic"
-150,IND,India,Southern Asia,Asia,"Mandi, Kullu, Shimla districts (Himachal Pradesh)",,2024-07-31,2024-08-23,23,"hin, eng","Hindi, English"
+143,BGD,Bangladesh,Southern Asia,Asia,"Lakshmipur, Cumilla, Feni, and Noakhali districts",,2024-08-19,2024-09-03,15,"eng, hau, ibo, yor","English, Hausa, Igbo, Yoruba"
+144,IND,India,Southern Asia,Asia,Tripura state,,2024-08-19,2024-08-23,4,ben,Bengali
+146,THA,Thailand,South-eastern Asia,Asia,"Phetchabun, Chiang Rai, Chiang Mai, Nan, Phayao, Lampang, Phrae, Udon Thani, Rayong, Phuket, Sukhothai and Prae provinces",,2024-08-16,2024-08-26,10,"hin, eng","Hindi, English"
+147,CHN,China,Eastern Asia,Asia,"Ridi Village (Kangding county, Garzê Tibetan Autonomous Prefecture, Sichuan province)",,2024-08-03,2024-08-04,1,"fra, sag","French, Sango"
+148,CMR,Cameroon,Sub-Saharan Africa,Africa,Logone et Chari and the Mayo-Danay Divisions (Far North Region ),,2024-08-01,2024-09-30,60,tha,Thai
+149,TCD,Chad,Sub-Saharan Africa,Africa,"Batha, Chari-Baguirmi, Logone Oriental, Mayo-Kebbi Ouest, Sila, Logone Occidental, N'Djamena city, Lake, Kanem; Tibesti, Lac, Mayo-Kebbi Est, Mandoul, Tandjilé, Batah, Guera, Salamat, Ennedi West, Borkou, Ennedi East",,2024-08-01,2024-09-30,60,cmn,Mandarin Chinese
+150,IND,India,Southern Asia,Asia,"Mandi, Kullu, Shimla districts (Himachal Pradesh)",,2024-07-31,2024-08-23,23,"fra, eng","French, English"
+151,GIN,Guinea,Sub-Saharan Africa,Africa,"BTN, Bolibana, Sigurikoura, Nankoda, Kokomo, Heremakonon, Chinese City, Tiguibiry, Konoba, Abatoire, Setceur TP, Téléladji, ORS1, and Mandé districts; Kintinian, Kinièbakoura, Niandankoro sub-prefectures (Siguiri)",,2024-07-29,2024-07-31,2,"fra, arb","French, Arabic"
+152,YEM,Yemen,Western Asia,Asia,"Maqbanah district (Taez governorate), Sadaa provinces; Al Hudaydah, Al Hajjah, Ma'rib governorates",,2024-07-28,2024-08-08,11,"hin, eng","Hindi, English"
